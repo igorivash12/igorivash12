@@ -1,104 +1,46 @@
-````md
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Delphi+%7C+C%23+%7C+Java+%7C+Networking;Game+%26+Desktop+Application+Development;Learning+Low-Level+and+System+Programming" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=500&color=2E9CFF&center=true&vCenter=true&width=500&lines=Front-end+Developer;React+%7C+TypeScript;1%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-Hi, I'm **Igor** — a developer interested in everything from desktop applications and networking to game development and low-level programming.
+I'm a **Front-end Developer** specializing in building responsive, user-friendly, and visually appealing web applications that deliver a seamless user experience.
 
-I enjoy understanding **how things work internally**:  
-from TCP packet exchange and DNS architecture to dynamic data structures, rendering, and client-server interaction.
+My path into development took some unique turns — from building a 3D editor in Delphi and a music player in C with FFT, to creating games in Unity and exploring Assembler. This diverse background taught me to think critically about **performance, data flow, and user interaction** — skills that now set my front-end work apart.
 
-Currently I work mostly with:
-
-- 🖥️ Desktop applications in **Delphi**
-- 🌐 Networking & client-server architecture
-- 🎮 2D game development
-- ☕ Learning **GO** and algorithms
-- ⚙️ Exploring low-level concepts, optimization, and system programming
-
-I like building projects that are not just functional, but technically interesting under the hood.
+Currently, I'm diving deep into the **React ecosystem and TypeScript**, staying current with industry trends, and looking for opportunities to contribute my unique perspective to a development team.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-
+  
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Delphi • Java • C# • C • JavaScript • GO |
+| **Languages** | Delphi • Java • C# • C • GO |
 | **Networking** | TCP/IP • DNS • DHCP • ARP • Client-Server Architecture |
 | **Programming Concepts** | OOP • Data Structures • Algorithms |
-| **Tools** | Git • GitHub • VS Code |
+| **Tools** | Git • GitHub • VS Code • RAD Studio |
 
 </div>
 
 ---
 
-# 🚀 Current Focus
+## 📫 Connect with Me
 
 <div align="center">
-
-✅ Advanced Delphi applications  
-✅ Multiplayer game architecture  
-✅ Networking protocols & packet handling  
-✅ Algorithms & LeetCode  
-✅ Low-level and systems programming  
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-- Java & backend fundamentals
-- Software architecture & design patterns
-- Network technologies
-- Cryptography basics
-- Performance optimization
-
----
-
-# 📌 Featured Interests
-
-```txt
-Desktop Development
-Networking
-Game Development
-System Programming
-Algorithms
-Cybersecurity
-AI Tools
-````
-
-
-# 📫 Contact Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/iGORiVash)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-ivash-a782823b3) 
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorivash12@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/igorivash12)
-
-
-
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-ivash)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorivash12@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iGORiVash)
+  
 </div>
 
 ---
 
 <div align="center">
-
-### ⚡ "I like understanding systems from the inside — not just using them."
-
+  <sub>⚡ Front-end developer with a low-level mindset — building better web apps from the ground up.</sub>
 </div>
-```
