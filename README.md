@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=500&color=2E9CFF&center=true&vCenter=true&width=500&lines=Front-end+Developer;React+%7C+TypeScript;1%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=500&color=2E9CFF&center=true&vCenter=true&width=500&lines=Back-end+Developer;GO;1%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a **Front-end Developer** specializing in building responsive, user-friendly, and visually appealing web applications that deliver a seamless user experience.
+Hi, I'm **Igor** — a developer interested in everything from desktop applications and networking to game development and low-level programming. 
 
-My path into development took some unique turns — from building a 3D editor in Delphi and a music player in C with FFT, to creating games in Unity and exploring Assembler. This diverse background taught me to think critically about **performance, data flow, and user interaction** — skills that now set my front-end work apart.
-
-Currently, I'm diving deep into the **React ecosystem and TypeScript**, staying current with industry trends, and looking for opportunities to contribute my unique perspective to a development team.
+I enjoy understanding **how things work internally**: 
+from TCP packet exchange and DNS architecture to dynamic data structures, rendering, and client-server interaction.
 
 ---
 
